@@ -2,3 +2,4 @@
 
 - [x] Crear el Repo Public a fokear
 - [ ] Crear una rama (branch) en el repo original llamada development
+- [x] Creo nueva linea para causar conflicto con el PR que cree anteoriormente
